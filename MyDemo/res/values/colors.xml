@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="com_facebook_blue_sel">#3B5998</drawable>
+    <drawable name="com_facebook_blue_pale">#5d8bba</drawable>
+    <drawable name="com_facebook_dsable">#aaaaaa</drawable>
+    <drawable name="skyblue">#51b6dc</drawable>
+    <drawable name="green">#00ff00</drawable>
+    <drawable name="yellow">#ffff00</drawable>
+</resources>
